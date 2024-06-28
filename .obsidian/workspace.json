@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA).md"
+                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47c8404952fd6257",
+  "active": "2eb99e86f924dffd",
   "lastOpenFiles": [
     "docs/How to Use Tabs.md",
-    "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA).md",
+    "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
     "build/assets/css/styles.50d23b44.css",
     "build/assets/css",
     "build/assets/js/runtime~main.a2667951.js",
