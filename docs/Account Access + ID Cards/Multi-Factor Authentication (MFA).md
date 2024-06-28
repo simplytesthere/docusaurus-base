@@ -1,8 +1,8 @@
 ---
-#Display h2 to h5 headings  
-toc_min_heading_level: 2  
-toc_max_heading_level: 5  
+toc_min_heading_level: "2"
+toc_max_heading_level: "5"
 ---
+
 ## What is MFA?
 
 Multi-Factor Authentication (MFA) provides your account greater security by verifying that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account -- the primary being your password and the secondary being some other form of verification. This secondary form of verification can be some combination of the following: 
