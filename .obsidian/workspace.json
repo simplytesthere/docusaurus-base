@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/How to Use Tabs.md",
+                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA) at Agnes Scott.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/How to Use Tabs.md",
+                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA) at Agnes Scott.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/How to Use Tabs.md",
+                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA) at Agnes Scott.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/How to Use Tabs.md"
+                "file": "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA) at Agnes Scott.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "47c8404952fd6257",
   "lastOpenFiles": [
+    "docs/How to Use Tabs.md",
+    "docs/Account Access + ID Cards/Multi-Factor Authentication (MFA) at Agnes Scott.md",
     "build/assets/css/styles.50d23b44.css",
     "build/assets/css",
     "build/assets/js/runtime~main.a2667951.js",
@@ -158,7 +160,6 @@
     "build/assets/js/f81c1134.c351b6d0.js",
     "build/assets/js/f55d3e7a.0ccce15c.js",
     "build/assets/js/f4f34a3a.2a911dfb.js",
-    "build/assets/js/e5aefb32.3e056c6f.js",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
