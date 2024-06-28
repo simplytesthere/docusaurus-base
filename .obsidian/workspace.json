@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/MFA at Agnes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/MFA at Agnes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
+                "file": "docs/Account Access and ID Cards/MFA at Agnes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md"
+                "file": "docs/Account Access and ID Cards/MFA at Agnes.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "47c8404952fd6257",
   "lastOpenFiles": [
     "docs/Account Access and ID Cards/How to Use Tabs 1.md",
-    "docs/Account Access and ID Cards/Multi-Factor Authentication (MFA).md",
+    "docs/Account Access and ID Cards/MFA at Agnes.md",
     "docs/How to Use Tabs.md",
     "build/assets/css/styles.50d23b44.css",
     "build/assets/css",
