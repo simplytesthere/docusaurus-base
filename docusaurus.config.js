@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/simplytesthere/docusaurus-base/tree/master/',
+            'https://github.com/simplytesthere/docusaurus-base/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/simplytesthere/docusaurus-base/tree/main/blog',
         },
         theme: {
           customCss: './src/css/custom.css',
