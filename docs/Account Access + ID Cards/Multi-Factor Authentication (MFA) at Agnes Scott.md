@@ -1,9 +1,8 @@
-- [What is MFA?](#what-is-mfa-)
-- [Why does Agnes Scott use MFA?](#why-does-agnes-scott-use-mfa-)
-- [How do I set up MFA?](#how-do-i-set-up-mfa-)
-- [What should I use as my default secondary MFA?](#what-should-i-use-as-my-default-secondary-mfa-)
-- [I want to be able to use MFA on a second device. How do I set that up?](#i-want-to-be-able-to-use-mfa-on-a-second-device-how-do-i-set-that-up-)
-- [I got a new phone and now MFA doesn't work. What should I do?](#i-got-a-new-phone-and-now-mfa-doesn-t-work-what-should-i-do-)
+```yaml
+# Display h2 to h5 headings*
+toc_min_heading_level: 1
+toc_max_heading_level: 5
+```
 
 # What is MFA?
 
