@@ -1,4 +1,4 @@
-```yaml
+```
 ---
 # Display h2 to h5 headings
 toc_min_heading_level: 1
