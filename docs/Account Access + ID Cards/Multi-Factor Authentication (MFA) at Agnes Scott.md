@@ -1,8 +1,8 @@
 ---
-toc_min_heading_level: 1
+toc_min_heading_level: 2
 toc_max_heading_level: 5
 ---
-# What is MFA?
+## What is MFA?
 
 Multi-Factor Authentication (MFA) provides your account greater security by verifying that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account -- the primary being your password and the secondary being some other form of verification. This secondary form of verification can be some combination of the following: 
 
@@ -10,11 +10,11 @@ Multi-Factor Authentication (MFA) provides your account greater security by veri
 - **REQUIRED**: your personal cell number *or* your Avaya Cloud office number (Faculty and Staff only)
 - **OPTIONAL**: a non-ASC email address
 
-# Why does Agnes Scott use MFA?
+## Why does Agnes Scott use MFA?
 
 Agnes Scott implemented MFA to reduce the chances of a cyber attack succeeding and affecting various campus resources and individual accounts.  
 
-# How do I set up MFA? 
+## How do I set up MFA? 
 
 If you have yet to sign into your ASC account, please use a computer **or a device other than your phone** to follow the instructions below. 
 
@@ -38,14 +38,14 @@ If you have yet to sign into your ASC account, please use a computer **or a devi
 7. Once you've verified the number, click "Next." If you see a screen that says "Success", you've completed MFA setup for your account. Click "Done" to access your account. 
 
 
-# What should I use as my default secondary MFA? 
+## What should I use as my default secondary MFA? 
 
 The college recommends you use the Microsoft Authenticator app as your default secondary verification method. This will allow you to receive codes even if you are out of the country or in an area that has poor or no cellular coverage.
 
 While acceptable, using a phone number or a non-ASC email address as the default secondary verification method can prevent sign-in if you lose access to your phone/personal email or have poor cellular service.
 
 
-# I want to be able to use MFA on a second device. How do I set that up?
+## I want to be able to use MFA on a second device. How do I set that up?
 
 1. Log into this website using your ASC account and current MFA device: [https://aka.ms/mfasetup](https://aka.ms/mfasetup) . 
 2. A window entitled "My Sign-Ins" will appear. Select the "Security Info" section. 
@@ -53,7 +53,7 @@ While acceptable, using a phone number or a non-ASC email address as the default
    - **add a new sign-in method (within the following options)**: alternative phone number and/or alternative Authenticator app phone
    - **change the default authentication method (within the following options)**: phone call, text, authentication app notification,  or authentication app code.
 
-# I got a new phone and now MFA doesn't work. What should I do?
+## I got a new phone and now MFA doesn't work. What should I do?
 
 If you recently upgraded/replaced your phone or had to change phone numbers, MFA will be unavailable on that device until it is added to your account. To add the new device to your account, you will need to do **one** of the following:
 
