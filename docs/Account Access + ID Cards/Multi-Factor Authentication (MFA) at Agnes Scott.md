@@ -1,5 +1,3 @@
-Multi-Factor Authentication (MFA) at Agnes Scott
-
 - [What is MFA?](#what-is-mfa-)
 - [Why does Agnes Scott use MFA?](#why-does-agnes-scott-use-mfa-)
 - [How do I set up MFA?](#how-do-i-set-up-mfa-)
@@ -55,13 +53,13 @@ While acceptable, using a phone number or a non-ASC email address as the default
 1. Log into this website using your ASC account and current MFA device: [https://aka.ms/mfasetup](https://aka.ms/mfasetup) . 
 2. A window entitled "My Sign-Ins" will appear. Select the "Security Info" section. 
 3. Within the "Security Info" tab, you can...
-   - **add a new sign in method (within the following options)**: alternative phone number and/or alternative Authenticator app phone
-   - **change the default authentication method (within the following options)**: phone call, text, authentication app notification, authentication app code.
+   - **add a new sign-in method (within the following options)**: alternative phone number and/or alternative Authenticator app phone
+   - **change the default authentication method (within the following options)**: phone call, text, authentication app notification,  or authentication app code.
 
 # I got a new phone and now MFA doesn't work. What should I do?
 
 If you recently upgraded/replaced your phone or had to change phone numbers, MFA will be unavailable on that device until it is added to your account. To add the new device to your account, you will need to do **one** of the following:
 
 - use the old device to sign into this link and click the "Add sign-in method" button to add your new device: https://aka.ms/mfasetup
-- contact the ASC Help Desk for a MFA Reset. Once the MFA Reset is complete, you will be prompted to re-do the MFA setup process the next time you access your account, allowing you to connect your new device. 
+- contact the ASC Help Desk for an MFA Reset. Once the MFA Reset is complete, you will be prompted to re-do the MFA setup process the next time you access your account, allowing you to connect your new device. 
 
