@@ -13,7 +13,7 @@ import TOCInline from '@theme/TOCInline';
 A generic account is an ASC account that is meant for general departmental purposes. This account may act as the first point of contact for people with inquires for your department. 
 
 We recommend that every generic account has at least one Account Manager, *who is the one person who has the password and the default MFA verification associated with their device*. 
-## We have multiple people that need to check an email account. Any recommendations? 
+## Several people need to be able to check a generic email account. Any recommendations? 
 
 If the generic account's email needs to be check by one or more people at any point point, we recommend setting up email delegation. This way, multiple people can check the account without having to interact with MFA. 
 
@@ -30,6 +30,6 @@ In this case, it would be best if the Account Manager added everyone who needs t
 Please refer to [MFA at Agnes FAQ > I want to be able to use MFA on a second device. How do I set that up?](https://asc-testsite2.netlify.app/docs/account-access-id-cards/MFA#i-want-to-be-able-to-use-mfa-on-a-second-device-how-do-i-set-that-up) to add other individuals to the MFA. We recommend using their Avaya Cloud Office or personal number as alternative verifications for the sake of ease. *Alternatively*, the Account Manager can collaborate with whomever needs access to set up alternative Authenticator app users.
 
 :::info
-When anyone besides the Account Manager signs into the generic account and this person's authentication method for the generic account is a phone number, they must hit "I can't use my Authenticator app right now" and find the verification method associated with themselves. 
+When anyone besides the Account Manager signs into the generic account and this person's authentication method for the generic account is a phone number, they must hit "**I can't use my Authenticator app right now**" and find the verification method associated with themselves. 
 :::
 

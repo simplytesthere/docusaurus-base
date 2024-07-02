@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
+                "file": "docs/Account Access and ID Cards/Generic Account Management Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
+                "file": "docs/Account Access and ID Cards/Generic Account Management Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
+                "file": "docs/Account Access and ID Cards/Generic Account Management Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Account Access and ID Cards/MFA at Agnes FAQ.md"
+                "file": "docs/Account Access and ID Cards/Generic Account Management Tips.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "47c8404952fd6257",
   "lastOpenFiles": [
+    "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
     "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
     "docs/User Device Support/How to Find Your Computer Name.md",
     "docs/User Device Support/Backing-Up Your Data - Windows.md",
     "docs/User Device Support/Backing Up Your Data - macOS.md",
-    "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
     "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
     "docs/Purchasing Tech at ASC FAQ.md",
     "docs/Account Access and ID Cards/Generic Account Management Tips.md",
