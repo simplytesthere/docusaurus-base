@@ -4,19 +4,20 @@ tags:
 authors: Sye Williams
 title: Backing Up Your Data on Windows
 slug: /user-device-support/backup-Windows
+sidebar_position: 3
 ---
 
-Before upgrading/replacing your Windows computer, we advise backing up your data. 
+Before upgrading/replacing your computer, we advise backing up your data. 
 
-While we will perform a data backup, we will only backup your user folder. **This doesn't include your browser bookmarks**. If you save data elsewhere or under another login, you either need to specify to us what logins or perform the backup yourself. 
+While we will perform a data backup, we will only backup your user folder. *This doesn't include your browser bookmarks*. If you save data elsewhere or under another login, you either need to specify to us what logins or perform the backup yourself. 
 
 ## Step 1: Back Up Your Bookmarks
 The easiest way to backup your bookmarks is to sign into the browser(s) you use with your ASC email and sync the data. Doing so will mean that your bookmarks will go with you whenever you sign into the browser(s) on your new computer. 
 
 Click the appropriate link to learn how to backup your browser bookmarks:
-- **Google Chrome**: https://support.google.com/chrome/answer/185277
-- **Firefox**: https://support.mozilla.org/en-US/kb/how-do-i-set-sync-my-computer
-- **Safari**: https://support.apple.com/guide/icloud/set-up-safari-mm5400ef10c4/icloud
+- *Google Chrome*: https://support.google.com/chrome/answer/185277
+- *Firefox*: https://support.mozilla.org/en-US/kb/how-do-i-set-sync-my-computer
+- *Safari*: https://support.apple.com/guide/icloud/set-up-safari-mm5400ef10c4/icloud
 
 ## Step 2: Back Up Your Files
 

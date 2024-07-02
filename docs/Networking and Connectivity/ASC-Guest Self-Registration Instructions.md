@@ -2,6 +2,7 @@
 authors: Sye Williams
 title: ASC-Guest Self-Registration
 slug: /network-and-connectivity/asc-guest-self-registration
+sidebar_position: 3
 ---
 
 Here are instructions for connecting to ASC-Guest Self-Registration. 

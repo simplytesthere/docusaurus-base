@@ -2,6 +2,7 @@
 authors: Sye Williams
 title: MFA at Agnes FAQ
 slug: /account-access-id-cards/MFA
+sidebar_position: 1
 ---
 
 :::warning

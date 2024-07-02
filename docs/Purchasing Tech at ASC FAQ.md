@@ -42,14 +42,14 @@ If you want a desktop instead, here are our options:
 ## What's the purchasing process?
 
 1. Contact itshelp@agnesscott.edu using the following template to receive a quote:
-	- DEVICE/BUNDLE:
-	- LINK TO DEVICE (if not referenced in the above bundles):
-	- QUANITY OF DEVICE(S)/BUNDLE(S):
-	- MONITOR SIZE (if needed):
-	- MONITOR QUANITY (if needed):
-	- FUTURE DEVICE OWNER(S):
-	- BUDGET MANAGER (for approval):
-	- GL-CODE (will only be used upon quote approval):
+	- *DEVICE/BUNDLE*:
+	- *LINK TO DEVICE (if not referenced in the above bundles)*:
+	- *QUANITY OF DEVICE(S)/BUNDLE(S)*:
+	- *MONITOR SIZE (if needed)*:
+	- *MONITOR QUANITY (if needed)*:
+	- *FUTURE DEVICE OWNER(S)*:
+	- *BUDGET MANAGER (for approval)*:
+	- *GL-CODE (will only be used upon quote approval)*:
 2. We will email your budget manager and you with the quote. *If your budget manager is comfortable with the price, they must respond to the email with "I approve of this purchase"*.
 3. Once ITS receives the approval email, we will purchase the device(s). You will receive confirmation from us of the purchase.
 4. We will inform you once the device has arrived and has been configured for use (if applicable).
@@ -57,4 +57,9 @@ If you want a desktop instead, here are our options:
 ## I want to buy my old device. How do I go about that?
 We allow users to buy their old device(s) *that are out-of-warranty*. If your old device is not out-of-warranty, it will be put back into circulation.
 
-The formula for the cost is as follows: Initial Cost/(Current Year - Year of Deployment) = Purchase Amount.  Example: $2000/(2024 - 2019) = $400
+The formula for the cost is as follows: 
+
+```
+Initial Cost/(Current Year - Year of Deployment) = Purchase Amount
+Example: $2000/(2024 - 2019) = $400
+```

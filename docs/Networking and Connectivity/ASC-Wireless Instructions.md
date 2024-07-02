@@ -2,6 +2,7 @@
 authors: Sye Williams
 title: ASC-Wireless
 slug: /network-and-connectivity/asc-wireless
+sidebar_position: 2
 ---
 
 Here are instructions for connecting to ASC-Wireless. Click the Table of Contents link to find device-specific instructions. 
@@ -33,7 +34,7 @@ import TOCInline from '@theme/TOCInline';
 
 :::tip
 
-If you receive an error after hitting the connect button, connect to [ASC-Guest Self-Registration](https://asc-testsite2.netlify.app/docs/Networking%20and%20Connectivity/ASC-Guest%20Self-Registration%20Instructions) instead.
+If you receive an error after hitting the connect button, connect to [ASC-Guest Self-Registration](https://asc-testsite2.netlify.app/docs/network-and-connectivity/asc-guest-self-registration) instead.
 
 :::
 
