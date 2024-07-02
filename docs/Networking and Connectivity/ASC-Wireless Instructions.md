@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: ASC-Wireless
-slug: asc-wireless
+slug: /network-and-connectivity/asc-wireless
 ---
 
 Here are instructions for connecting to ASC-Wireless. Click the Table of Contents link to find device-specific instructions. 

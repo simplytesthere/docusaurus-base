@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: MFA at Agnes FAQ
-slug: MFA
+slug: /account-access-id-cards/MFA
 ---
 
 :::warning

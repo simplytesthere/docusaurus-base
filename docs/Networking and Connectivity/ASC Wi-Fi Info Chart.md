@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: Agnes Wi-Fi Info Chart
-slug: wifi-info-chart
+slug: /network-and-connectivity/wifi-info-chart
 ---
 
 Here you will find a comparison chart of the different Wi-Fi options available at Agnes Scott. 

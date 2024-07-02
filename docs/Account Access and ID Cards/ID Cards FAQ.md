@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: ID Card FAQ
-slug: id-cards
+slug: /account-access-id-cards/id-cards
 ---
 
 import TOCInline from '@theme/TOCInline';  

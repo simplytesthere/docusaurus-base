@@ -1,7 +1,7 @@
 ---
 title: Available Software and Apps
 authors: Sye Williams
-slug: avail-software-apps
+slug: /software-and-browser-based-apps/avail-software-apps
 ---
 
 Here is a list of software available through Agnes Scott along with basic information about each. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
+                "file": "docs/Purchasing Tech at ASC FAQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
+                "file": "docs/Purchasing Tech at ASC FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
+                "file": "docs/Purchasing Tech at ASC FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md"
+                "file": "docs/Purchasing Tech at ASC FAQ.md"
               }
             }
           }
@@ -148,27 +148,28 @@
   },
   "active": "47c8404952fd6257",
   "lastOpenFiles": [
+    "docs/User Device Support/Backing-Up Your Data - Windows.md",
+    "docs/User Device Support/Backing Up Your Data - macOS.md",
     "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
-    "docs/Networking and Connectivity/ASC-Wireless Instructions.md",
     "docs/Networking and Connectivity/ASC Wi-Fi Info Chart.md",
+    "docs/Networking and Connectivity/ASC-Wireless Instructions.md",
     "docs/Networking and Connectivity/ASC-Guest Instructions.md",
     "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
-    "docs/Communication and Collaboration/Email/Generic Account Management Tips.md",
     "docs/Account Access and ID Cards/MFA at Agnes FAQ.md",
-    "blog/2019-05-28-first-blog-post.md",
+    "docs/Email/Generic Account Management Tips.md",
     "docs/Account Access and ID Cards/ID Cards FAQ.md",
-    "docs/User Device Support/Backing-Up Your Data - Windows.md",
-    "docs/Purchasing Tech at ASC FAQ.md",
-    "docs/User Device Support/Backing Up Your Data - macOS.md",
+    "blog/2019-05-28-first-blog-post.md",
+    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
     "blog/2021-08-26-welcome/index.md",
+    "src/pages/markdown-page.md",
+    "docs/Purchasing Tech at ASC FAQ.md",
     "blog/2019-05-29-long-blog-post.md",
-    "docs/Communication and Collaboration/Email",
-    "docs/Communication and Collaboration",
+    "docs/Email/Email",
+    "docs/Email",
     "README.md",
     "docs/intro.md",
     "docs/Software and Browser-Based Application Support",
     "docs/User Device Support",
-    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
     "docs/Purchasing/How to Submit a Purchasing Request.md",
     "docs/Purchasing/Purchasing Standards.md",
     "docs/Purchasing",

@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: ASC-Guest
-slug: asc-guest
+slug: /network-and-connectivity/asc-guest
 ---
 
 1. Select **ASC-Guest** from the list of available connections on your device.

@@ -3,6 +3,7 @@ tags:
   - employees-only
 authors: Sye Williams
 title: Purchasing Tech at Agnes FAQ
+slug: purchasing-tech
 ---
 
 
@@ -26,6 +27,7 @@ We have standard purchasing bundles now! As of June 2024, here are the bundles:
 | Executive     | Executive employees (VPs, Directors, etc.) | HP Elite Dragonfly, Docking Station        | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
 | Power User    | Employees who need a high-powered setup    | HP Zbook Firefly, Docking Station          | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
 | Mac User      | Employees who are used to macOS            | MacBook Pro, Docking Station               | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
+
 You may notice that all of our packages include a laptop and a docking station. This is because we are encouraging everyone to use a more flexible setup.  
 
 This more flexible setup enables you to travel with your main computer by simply detaching the laptop from the docking station. Additionally, everyone just having one device reduces the number of devices ITS has to service. 

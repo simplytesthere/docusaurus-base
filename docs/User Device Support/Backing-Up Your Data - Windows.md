@@ -3,6 +3,7 @@ tags:
   - employees-only
 authors: Sye Williams
 title: Backing Up Your Data on Windows
+slug: /user-device-support/backup-Windows
 ---
 
 Before upgrading/replacing your Windows computer, we advise backing up your data. 
