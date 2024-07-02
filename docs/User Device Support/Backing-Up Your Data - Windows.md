@@ -21,7 +21,7 @@ Click the appropriate link to learn how to backup your browser bookmarks:
 
 ## Step 2: Back Up Your Files
 
-:::important
+:::warning
 
 Do not use a network share (aka "the W drive") to backup your files. A network share is designed to share documents amongst your department and storage space is limited.
 

@@ -48,7 +48,9 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
 6. Set up a phone number for MFA to receive a verification code
    - *Single-User Accounts (employee or student)*: Use either your personal cell number or office phone number (if you're an employee). 
    - *Generic Accounts (multi-user accounts)*: Use the Avaya Cloud office phone number. 
-   > [!Tip] **TIP**: We recommend using the text option for the verification code. If you chose the phone call option, *which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated*, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
+:::tip
+We recommend using the text option for the verification code. If you chose the phone call option, *which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated*, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
+:::
 7. Once you've verified the number, click **Next** on the website. If you see a screen that says "Success", you've completed MFA setup for your account. Click **Done** to access your account. 
 
 

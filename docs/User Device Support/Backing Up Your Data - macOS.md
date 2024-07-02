@@ -20,10 +20,8 @@ Click the appropriate link to learn how to backup your browser bookmarks:
 
 ## Step 2: Back Up Your Files
 
-:::important
-
+:::warning
 Do not use a network share (aka "the W drive") to backup your files. A network share is designed to share documents amongst your department and storage space is limited.
-
 :::
 
 
@@ -52,7 +50,7 @@ Here's how:
 
 ### Restoring from an External Storage Backup
 
-:::Important
+:::warning
 Please follow the instructions below. Do not do the default Time Machine restore as that can mess up ASC-specific configurations for your new Mac.
 :::
 
