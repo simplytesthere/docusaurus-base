@@ -4,9 +4,15 @@ title: MFA at Agnes FAQ
 ---
 
 import TOCInline from '@theme/TOCInline';  
-  
+
 <TOCInline toc={toc} />
->[! important] **IMPORTANT**: You need a smartphone or tablet to utilize MFA at Agnes. If you do not have a smartphone or tablet, please come by the ITS Help Desk. 
+
+: : : warning
+
+You need a smartphone or tablet to utilize MFA at Agnes. If you do not have a smartphone or tablet, please come by the ITS Help Desk. 
+
+: : :
+
 ## What is MFA?
 
 Multi-Factor Authentication (MFA) provides your account greater security by verifying that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account -- the primary being your password and the secondary being some other form of verification. This secondary form of verification consists of the following: 
