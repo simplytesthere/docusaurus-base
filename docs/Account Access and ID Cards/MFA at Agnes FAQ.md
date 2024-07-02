@@ -7,11 +7,11 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-: : : warning
+:::warning
 
 You need a smartphone or tablet to utilize MFA at Agnes. If you do not have a smartphone or tablet, please come by the ITS Help Desk. 
 
-: : :
+:::
 
 ## What is MFA?
 
