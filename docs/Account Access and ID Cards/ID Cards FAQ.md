@@ -1,10 +1,11 @@
 ---
 authors: Sye Williams
 title: ID Card FAQ
+slug: id-cards
 ---
 
 import TOCInline from '@theme/TOCInline';  
-  
+
 <TOCInline toc={toc} />
 ## How do we use ID Cards at Agnes Scott?
 ID cards are vital to your life at Agnes. They allow you to get into certain doors and buildings. They also act as on-campus identification for safety purposes, meal plans, library checkouts, and printing. Additionally, if you show your ID card at some local businesses, you can get a discount!

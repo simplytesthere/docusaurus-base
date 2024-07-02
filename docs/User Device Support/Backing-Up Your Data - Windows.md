@@ -19,15 +19,19 @@ Click the appropriate link to learn how to backup your browser bookmarks:
 
 ## Step 2: Back Up Your Files
 
-> [! Important] **IMPORTANT**: Do not use a network share (aka "the W drive") to backup your files. A network share is designed to share documents amongst your department and storage space is limited.
+:::important
+
+Do not use a network share (aka "the W drive") to backup your files. A network share is designed to share documents amongst your department and storage space is limited.
+
+:::
 
 
 There are multiple ways to backup your data, but the two best options are as follows:
 
-| Option                     | Best For...                                                                                                                                                                               | Tools Needed                                                   |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, if you use specialized software with unique file extensions, this is the best option. | 1 TB External HD                                               |
-| Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images.                                                                                                              | [Google Drive Desktop](https://www.google.com/drive/download/) |
+| Option                     | Best For...                                                  | Tools Needed                                                 |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | 1 TB External HD                                             |
+| Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 
 ### External Storage Backup
 
@@ -59,8 +63,7 @@ Here's how:
 ### Restoring from a Google Drive Cloud Backup
 1. Sign into your new computer. 
 2. Using your ASC credentials, sign into Google Drive. 
-3. Navigate to the "Computers" folder on the left-side of the screen. 
-4. Click the three-dots on the folder entitled your old computer name. Hit "Download" on the menu that appears.
-5. Wait while the ZIP file downloads. 
-6. Once the ZIP file has downloaded, right-click it. From the menu that appears, select **Extract all**.
-7. Copy and paste the files into their appropriate folder on your computer. 
+3. Navigate to the **Computers** folder on the left-side of the screen. 
+4. Click the three-dots on the folder entitled your old computer name. Select **Download** on the menu that appears.
+5. Wait while the ZIP file downloads. Once the ZIP file has downloaded, right-click it. From the menu that appears, select **Extract all**.
+7. Copy and paste the files into their appropriate folder(s) on your computer. 

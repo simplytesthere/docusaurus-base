@@ -1,6 +1,7 @@
 ---
 authors: Sye Williams
 title: ASC-Guest Self-Registration
+slug: asc-guest-self-registration
 ---
 
 Here are instructions for connecting to ASC-Guest Self-Registration. 
@@ -11,8 +12,13 @@ Here are instructions for connecting to ASC-Guest Self-Registration.
 4. In the new screen that opens, enter the following: 
 	1. *Username*: your ASC email username 
 	2. *MAC Address*: the MAC address of your device
-		>[!TIP] TIP: If you're unsure of how to find the MAC address of your respective device, please web search “[device name] MAC address” (ex: Firestick MAC Address.) 
 		
+		:::tip
+   	
+   	If you're unsure of how to find the MAC address of your respective device, please web search “[device name] MAC address” (ex: Firestick MAC Address.) 
+   	
+   	:::
+   	
     3. *Description*: a brief description of the device (ex: My RokuTV) 
 5. Click **Submit**. 
 6. The next screen will show that your device has been added and is ready to be connected, as communicated by its “Approved” status. 

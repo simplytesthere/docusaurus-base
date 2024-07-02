@@ -1,12 +1,13 @@
 ---
 authors: Sye Williams
 title: ASC-Wireless
+slug: asc-wireless
 ---
 
 Here are instructions for connecting to ASC-Wireless. Click the Table of Contents link to find device-specific instructions. 
 
 import TOCInline from '@theme/TOCInline';  
-  
+
 <TOCInline toc={toc} />
 
 ## Connecting a Smartphone, Tablet, or ChromeOS Devices 
@@ -30,7 +31,11 @@ import TOCInline from '@theme/TOCInline';
 7. Select **Connect**. 
 8. You should be connected.  
 
-> [! tip] TIP: If you receive an error after hitting the connect button, connect to ASC-Guest Self-Registration instead. Instructions here: [[ASC-Guest Self-Registration Instructions]] .
+:::tip
+
+If you receive an error after hitting the connect button, connect to [ASC-Guest Self-Registration](https://asc-testsite2.netlify.app/docs/Networking%20and%20Connectivity/ASC-Guest%20Self-Registration%20Instructions) instead.
+
+:::
 
 ### iPhone 
 
@@ -47,7 +52,7 @@ import TOCInline from '@theme/TOCInline';
 1. Sign into your laptop using your current email username and password. 
 2. Wait while the laptop forces a connection to **ASC-Wireless**. 
 3. You should be connected to ASC-Wireless and also logged into the computer.  
-  
+
 ### Personal Windows Device or Personal/College-Owned macOS Device 
 
 1. Log into your device and click the WiFi symbol and then select **ASC-Wireless** in in the list of connections.

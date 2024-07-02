@@ -1,3 +1,9 @@
+---
+title: Available Software and Apps
+authors: Sye Williams
+slug: avail-software-apps
+---
+
 Here is a list of software available through Agnes Scott along with basic information about each. 
 
 To obtain an individual named license for any of the software listed below, please submit a request to itshelp@agnesscott.edu along with a justification for your request. 

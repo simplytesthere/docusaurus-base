@@ -1,17 +1,20 @@
 ---
 authors: Sye Williams
 title: MFA at Agnes FAQ
+slug: MFA
 ---
-
-import TOCInline from '@theme/TOCInline';  
-
-<TOCInline toc={toc} />
 
 :::warning
 
 You need a smartphone or tablet to utilize MFA at Agnes. If you do not have a smartphone or tablet, please come by the ITS Help Desk. 
 
 :::
+
+import TOCInline from '@theme/TOCInline';  
+
+<TOCInline toc={toc} />
+
+
 
 ## What is MFA?
 
