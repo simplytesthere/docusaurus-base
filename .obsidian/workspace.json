@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
+                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
+                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
+                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Software and Browser-Based Application Support/Available Software and Apps.md"
+                "file": "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "47c8404952fd6257",
   "lastOpenFiles": [
-    "docs/Networking and Connectivity/ASC-Wireless Instructions.md",
     "docs/Software and Browser-Based Application Support/Available Software and Apps.md",
+    "docs/Networking and Connectivity/ASC-Wireless Instructions.md",
     "docs/Networking and Connectivity/ASC Wi-Fi Info Chart.md",
     "docs/Networking and Connectivity/ASC-Guest Instructions.md",
     "docs/Networking and Connectivity/ASC-Guest Self-Registration Instructions.md",
