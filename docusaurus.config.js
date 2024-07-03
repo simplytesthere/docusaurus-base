@@ -93,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Contact Info',
-                to: '/docs/Contact_Info.md',
+                to: '/docs/contact-info-hours',
               },
             ],
           },
