@@ -19,7 +19,7 @@ Whenever submitting a ticket, be prepared with the following:
 - Your ASC ID number (for phone calls)
 - A specific description of the issue that you're having
 
-What entails a specific description? Basically providing as much details as possible about your issue. 
+What entails a specific description? Providing as many details as possible about your issue! 
 
 For example, instead of saying "My computer is slow.", say something like "My computer is slow to boot up." or "When I'm using the internet, my pages take a long time to load." The more information ITS has upfront, the quicker we can resolve your issue. 
 
