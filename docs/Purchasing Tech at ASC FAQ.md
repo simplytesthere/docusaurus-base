@@ -4,6 +4,7 @@ tags:
 authors: Sye Williams
 title: Purchasing Tech at Agnes FAQ
 slug: purchasing-tech
+sidebar_position: 6
 ---
 
 
