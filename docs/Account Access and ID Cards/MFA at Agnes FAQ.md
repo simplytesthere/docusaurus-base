@@ -35,7 +35,7 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
 1. Go to https://scottiemail.agnesscott.edu
 2. In the **email** box, type in *your full ASC email address*. Click **Next**. 
 3. In the **password** box, type in *your password*. Click **Next**.
-4. You will see a page that says "More information required". Click the **Next** button. 
+4. You will see a page that says **More information required**. Click the **Next** button. 
 5. The webpage for MFA setup will open.
 6. Set up the Microsoft Authenticator App
    1. If you haven't already, download the Authentication App on the device you wish to use for secondary verification ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)).
