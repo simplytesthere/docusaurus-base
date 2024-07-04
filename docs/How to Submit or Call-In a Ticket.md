@@ -1,5 +1,5 @@
 ---
-title: How to Submit or Call-in a Ticket FAQ
+title: How to Submit a Ticket
 slug: ticket-submission
 authors: Sye Williams
 sidebar_position: 2
