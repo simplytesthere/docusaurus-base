@@ -32,20 +32,33 @@ There are multiple ways to backup your data, but the two best options are as fol
 
 | Option                     | Best For...                                                  | Tools Needed                                                 |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | 1 TB External HD                                             |
+| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | 1 TB external hard drive (HD)                                |
 | Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 
 ### External Storage Backup
 
-We advise using the "Backup and Restore" feature built into Windows. 
+1. Connect the 1 TB external HD to your ==old== computer.
+2. In the **Search** bar at the bottom of the screen, type in **Backup**. Click the matching result.
+3. In the **Backup** window underneath the **Looking for an older backup?** section, click **Go to Backup and Restore (Windows 7)**.
+4. In the **Backup and Restore** window, click **Set up backup**.
 
-Follow the instructions [here](https://support.microsoft.com/en-us/windows/move-files-off-a-windows-7-pc-using-backup-and-restore-6d644507-1970-e7e8-3d39-d66f895cff8d#:~:text=Connect%20the%20external%20storage%20device,backup%20to%20restore%20files%20from.).
+5. Under **Backup Destination**, select your external HD and then click **Next**.
+
+6. Select **Let me choose** > **Next**.
+7. On this page, leave ==only== the checkbox associated with your name/username selected.
+8. Click **Next**.
+9. Clear the **Run backup on a schedule** checkbox, and then click **OK**.
+
+10. Click **Save settings and run backup** to start backing up your files to the external HD.
+11. Wait for the backup process to finish. This may take a while depending on how many files you have.
+12. Eject the external HD to disconnect the drive from your PC without corrupting your backup.
 
 ### Google Drive Cloud Storage
-1. While signed into your ASC account, download Drive and follow the prompts.
-2. Check the boxes beside each folder on your computer you would like to have backed up to the cloud.
+1. While signed into your ASC account, download **Google Drive Desktop** and follow the prompts.
+2. Select the checkbox beside each folder on your computer that you want backed-up to the cloud.
 3. Wait for the files to upload to Google Drive. You may continue using your computer while the files are uploaded.
-4. To verify that your files have been backed up, go to your Google Drive and select "Computers”. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
+4. To verify that your files have been backed up, go to your ASC **Google Drive** and then click **Computers** on the left-side of the screen. 
+5. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
 
 ## Step 3: Restore Your Files
 Once you've received your new computer, it's time to restore your files!
@@ -55,13 +68,14 @@ Here's how:
 ### Restoring from an External Storage Backup
 1. Sign into your new computer. 
 2. Plug in the external HD. 
-3. Click the **Start Button** > **Settings**
-4. Select **Update & Security** > **Backup** > **Backup and Restore - Windows 7** (towards the bottom of the page)
-5. In the new window that opens, select the **Restore my files** link.
+3. In the **Search** bar at the bottom of the screen, type **Backup**. Click the first result.
+4. In the **Backup** window underneath the **Looking for an older backup?** section, click **Go to Backup and Restore (Windows 7)**.
+5. In the **Backup and Restore** window, select **Restore my files**.
 6. Select your external HD in the list of available restore sources. 
-7. Select **Restore to original location**.
-8. Wait while the files restore. If you receive a prompt about whether to copy, replace, etc. an existing file, select **Copy and Replace** and select the checkbox for **Do this for all**.
-9. Your files have been restored.
+7. Click **Restore to original location**.
+8. Wait while the files restore. If you receive a prompt about whether to copy, replace, etc. an existing file, click **Copy and Replace** and select the **Do this for all** checkbox.
+9. Wait for the file restoration process to complete. This may take a while depending on how many files you have.
+10. Once the process has been completed, you may use your computer.
 ### Restoring from a Google Drive Cloud Backup
 1. Sign into your new computer. 
 2. Using your ASC credentials, sign into Google Drive. 

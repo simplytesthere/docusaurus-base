@@ -15,7 +15,7 @@ Do not rename your computer. If you have any questions regarding the computer's 
 
 ## Windows
 
-1. In the **Search Bar**, type **View your PC Name**. Select the first result.
+1. In the **Search Bar**, type **View your PC Name**. Click the matching result.
 2. Under the **Device Specifications** section, your computer name is listed beside **Device Name**.
 ## macOS
 
