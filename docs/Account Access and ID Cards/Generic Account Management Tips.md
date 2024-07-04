@@ -1,7 +1,7 @@
 ---
 authors: Sye Williams
 title: Generic Account Management FAQ
-slug: generic-email-accounts
+slug: /account-access-id-cards/generic-email-accounts
 ---
 
 import TOCInline from '@theme/TOCInline';  
