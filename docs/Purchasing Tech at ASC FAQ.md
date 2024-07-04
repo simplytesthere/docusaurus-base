@@ -14,9 +14,9 @@ import TOCInline from '@theme/TOCInline';
 
 ## Do I have to purchase all technology through the ITS?
 
-All computers and tablets must be purchased through ASC ITS. This is because we must configure the devices for our environment so we can support them. *If you purchase a computer or tablet without the ASC ITS involvement, we will not support the device outside of connecting it to the on-campus network.*
+All computers and tablets must be purchased through the ASC ITS. This is because we must configure the devices for our environment so we can support them. If you purchase a computer or tablet without the ASC ITS involvement, we will not support the device outside of connecting it to the on-campus network.
 
-If you need accessories – such a keyboard, mouse, laptop bag, etc. – you can either purchase through us or using your department's p-card. 
+If you need accessories – such as a keyboard, mouse, laptop bag, etc. – you can purchase via the ASC ITS, your department's p-card, or your personal funds and seek reimbursement. 
 
 ## I need a new computer. What should I order?
 

@@ -19,10 +19,10 @@ import TOCInline from '@theme/TOCInline';
 
 ## What is MFA?
 
-Multi-Factor Authentication (MFA) provides your account greater security by verifying that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account -- the primary being your password and the secondary being some other form of verification. This secondary form of verification consists of the following: 
+Multi-factor authentication (MFA) makes your account more secure by forcing you to verify that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account – the primary being your password and the secondary being some other form of verification. This secondary form of verification consists of the following: 
 
-- *REQUIRED*: the Microsoft Authenticator app on your smartphone or tablet ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)) 
-- *REQUIRED*: your personal cell number *or*, if you’re an employee, your Avaya Cloud office number
+- DEFAULT: the Microsoft Authenticator app on your smartphone or tablet ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)) 
+- BACKUP: your personal cell number or, if you’re an employee, your Avaya Cloud office number
 
 ## Why does Agnes Scott use MFA?
 
@@ -43,32 +43,32 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
    3. Open the Authenticator app. When prompted, tap **Turn on notifications** (you must enable notifications for the app to work). 
    4. Within the app, tap **Add an account** > **Work or School account**.
    5. On the website, hit **Next**. The website will prompt you to scan a QR code. 
-   6. On the app, tap **Scan a QR code** then hold up your camera to the website’s QR Code.
+   6. On the app, tap **Scan a QR code** then use your phone’s camera to scan the website’s QR Code.
    7. You will be prompted to input the number displayed on the website and then to use your phone's secure login method (ex: pattern, Face ID, thumbprint, etc.). Type in the number and complete your phone's secure login method. 
    8. Once you’ve answered the phone prompt, you will see a **Notification approved** screen on the website. Click **Next**.
 7. Set up a phone number for MFA to receive a verification code
-   - *Single-User Accounts (employee or student)*: Use your personal cell number *or*, if you’re an employee, your Avaya Cloud Office phone number. 
-   - *Generic Accounts (multi-user accounts)*: Use an Avaya Cloud office phone number. 
+   - Single-User Accounts (employee or student): Use your personal cell number *or*, if you’re an employee, your Avaya Cloud Office phone number. 
+   - Generic Accounts (multi-user accounts): Use an Avaya Cloud office phone number. 
    :::tip
-   We recommend using the text option for the verification code. If you chose the phone call option, *which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated*, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
+   We recommend using the text option for the verification code. If you chose the phone call option, which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
    :::
 8. Once you've verified the number, click **Next** on the website. If you see a screen that says **Success**, you've completed MFA setup for your account. Click **Done** to access your account. 
 
 
 ## What should I use as my default secondary MFA? 
 
-The college recommends you use the Microsoft Authenticator app as your default secondary verification method. This will allow you to receive codes even if you are out of the country or in an area with poor or no cellular coverage.
+The college recommends you use the Microsoft Authenticator app as your default secondary verification method. This will allow you to receive codes even if you are out of the country or in an area with poor/no cellular coverage.
 
-While acceptable, using a phone number or a non-ASC email address as the default secondary verification method can prevent sign-in if you lose access to your phone/personal email or have poor cellular service.
+While acceptable, using a phone number as the default secondary verification method can prevent sign-in if you lose access to your phone or have poor cellular service.
 
 
 ## I want to be able to use MFA on a second device. How do I set that up?
 
-1. On a computer or laptop, log into this website with your ASC account credentials and your *current* MFA device: [https://aka.ms/mfasetup](https://aka.ms/mfasetup) . 
+1. On a computer or laptop, log into this website with your ASC account credentials and your current MFA device: [https://aka.ms/mfasetup](https://aka.ms/mfasetup) . 
 2. A webpage entitled **My Sign-Ins** will appear. Click the **Security Info** section. 
 3. Within the **Security Info** section, you can both...
-   - *add a new sign-in method (within the following options)*: alternative phone number and/or an alternative Authenticator app phone/tablet
-   - *change the default authentication method (within the following options)*: phone call, text, authentication app notification,  or authentication app code.
+   - add a new sign-in method within the following options: an alternative phone number and/or an alternative Authenticator app phone/tablet
+   - change the default authentication method within the following options: phone call, text, authentication app notification,  or authentication app code.
 
 ## I got a new phone and now MFA doesn't work. What should I do?
 
