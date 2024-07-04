@@ -6,6 +6,18 @@ title: Backing Up Your Data on macOS
 slug: /user-device-support/backup-macOS
 sidebar_position: 2
 ---
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
 Before upgrading/replacing your computer, we advise backing up your data. 
 
 While we will perform a data backup, we will only backup your user folder. *This doesn't include your browser bookmarks*. If you save data elsewhere or under another login, you either need to specify to us what logins or perform the backup yourself. 
@@ -33,7 +45,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 | Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 ### External Storage Backup
 
-1. Plug in the 1 TB external HD into your <highlight>old</highlight> Mac.
+1. Plug in the 1 TB external HD into your <highlight color="#402B6F">old</highlight> Mac.
 2. Follow the instructions found [here](https://support.apple.com/en-us/HT201250). If your new device is a MacBook, make sure it's plugged in for the duration of this process.
 3. Once the **Time Machine backup** has been completed, eject the external HD.
 
