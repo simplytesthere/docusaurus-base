@@ -45,7 +45,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 | Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 ### External Storage Backup
 
-1. Plug in the 1 TB external HD into your <highlight color="#402B6F">old</highlight> Mac.
+1. Plug in the 1 TB external HD into your <Highlight color="#402B6F">old</Highlight> Mac.
 2. Follow the instructions found [here](https://support.apple.com/en-us/HT201250). If your new device is a MacBook, make sure it's plugged in for the duration of this process.
 3. Once the **Time Machine backup** has been completed, eject the external HD.
 
