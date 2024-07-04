@@ -17,7 +17,7 @@ Do not rename your computer. If you have any questions regarding the computer's 
 
 1. In the **Search Bar**, type **View your PC Name**. Select the first result.
 2. Under the **Device Specifications** section, your computer name is listed beside **Device Name**.
-## MacOS
+## macOS
 
 1. Click on the **Apple icon** (in the top left corner) > **System Preferences** > **Sharing**.
 2. The computer name will appear at the top of the window that opens.
