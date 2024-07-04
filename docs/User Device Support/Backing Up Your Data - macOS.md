@@ -38,10 +38,10 @@ There are multiple ways to backup your data, but the two best options are as fol
 3. Once the Time Machine backup has been completed, eject the external HD.
 
 ### Google Drive Cloud Storage
-1. While signed into your ASC account, download Drive and follow prompts
+1. While signed into your ASC account, download Drive and follow the prompts.
 2. Check the boxes beside each folder on your computer you would like to have backed up to the cloud.
-3. Wait for the files to upload to Google Drive. You may continue using your computer while the files upload.
-4. To verify that your files have been backed up, go to your Google Drive and select **Computers**. There you should see a folder entitled your computer name, and within it, all of the files that you've backed up. 
+3. Wait for the files to upload to Google Drive. You may continue using your computer while the files are uploaded.
+4. To verify that your files have been backed up, go to your Google Drive and select **Computers**. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
 
 ## Step 3: Restore Your Files
 Once you've received your new computer, it's time to restore your files!
@@ -51,18 +51,26 @@ Here's how:
 ### Restoring from an External Storage Backup
 
 :::warning
-Please follow the instructions below. Do not do the default Time Machine restore as that can mess up ASC-specific configurations for your new Mac.
+Please follow the instructions below. *Do not* do the default Time Machine restore because that can mess up ASC-specific configurations for your new Mac.
 :::
 
-1. Plug in your Time Machine backup into your *new* Mac.
-2. Follow steps 2 - 6 listed [here](https://support.apple.com/en-us/HT203981)
-3. When selecting the information to transfer, *only* select your user folder. *DO NOT* select the other options.
-4. Click continue to start the transfer. If your new device is a MacBook, make sure it's plugged in for the duration of this process.
-9. Your files have been restored.
+1. *If your new computer is a MacBook*, connect it to a charger for the duration of this process.
+2. Plug the external HD with your Time Machine backup into your *new* Mac.
+3. Open **Migration Assistant** on your Mac by typing in “Migration Assistant” into the Spotlight search text box.
+4. When asked how you want to transfer your information, select the following option: **From a Mac, Time Machine backup or Startup disk**. Then click **Continue**.
+5. Select your Time Machine backup then click **Continue**.
+6. Choose the latest backup then click **Continue**.
+7. In the next window, *only* select your user folder. *DO NOT* select the other options.
+8. Select **Replace** when asked what you want to do with the user profile from the old computer.
+9. If asked to input an administrator password to transfer your user account, type in your current network password.
+10. Click **Continue** to start the transfer. Depending on how much data you have, file restoration may take a while.
+11. Once Migration Assistant is finished, you may be prompted to restart your computer. Do so. 
+12. Once the computer has restarted, log in using your current network credentials. 
+13. Your files have been restored.
 ### Restoring from a Google Drive Cloud Backup
 1. Sign into your new computer. 
 2. Using your ASC credentials, sign into Google Drive. 
-3. Navigate to the **Computers** folder on the left-side of the screen. 
-4. Click the three-dots on the folder entitled your old computer name. Select **Download** on the menu that appears.
-5. Wait while the ZIP file downloads. Once the ZIP file has downloaded, double-click it. The ZIP file will automatically extract its contents.
+3. Navigate to the **Computers** folder on the left side of the screen. 
+4. Click the three dots on the folder entitled your old computer name. Select **Download** on the menu that appears.
+5. Wait while the ZIP file downloads. Once the ZIP file has been downloaded, double-click it. The ZIP file will automatically extract its contents.
 7. Copy and paste the files into their appropriate folder(s) on your computer. 

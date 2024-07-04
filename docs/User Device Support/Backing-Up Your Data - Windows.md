@@ -42,10 +42,10 @@ We advise using the "Backup and Restore" feature built into Windows.
 Follow the instructions [here](https://support.microsoft.com/en-us/windows/move-files-off-a-windows-7-pc-using-backup-and-restore-6d644507-1970-e7e8-3d39-d66f895cff8d#:~:text=Connect%20the%20external%20storage%20device,backup%20to%20restore%20files%20from.).
 
 ### Google Drive Cloud Storage
-1. While signed into your ASC account, download Drive and follow prompts
+1. While signed into your ASC account, download Drive and follow the prompts.
 2. Check the boxes beside each folder on your computer you would like to have backed up to the cloud.
-3. Wait for the files to upload to Google Drive. You may continue using your computer while the files upload.
-4. To verify that your files have been backed up, go to your Google Drive and select "Computers”. There you should see a folder entitled your computer name, and within it, all of the files that you've backed up. 
+3. Wait for the files to upload to Google Drive. You may continue using your computer while the files are uploaded.
+4. To verify that your files have been backed up, go to your Google Drive and select "Computers”. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
 
 ## Step 3: Restore Your Files
 Once you've received your new computer, it's time to restore your files!

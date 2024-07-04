@@ -66,7 +66,7 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 
 ## I changed my password and now ASC-Wireless doesn't work. What should I do? 
 
-Please "forget" ASC-Wireless from your list of remembered Wi-Fi connections and then reconnect to ASC-Wireless by following the appropriate device-specific directions. 
+"Forget" ASC-Wireless from your list of remembered Wi-Fi connections and then reconnect to ASC-Wireless by following the appropriate device-specific directions. 
 
 ## Wi-Fi isn't working on my device, and I haven't changed my password. Help?
 
@@ -74,5 +74,5 @@ Please submit a ticket at itshelp@agnesscott.edu. Make sure your email to ITS He
 
 - Your device type 
 - The MAC address of your device 
-- Where you're unable to get WiFi
+- Where you're unable to get Wi-Fi
 - If others are experiencing the same issue

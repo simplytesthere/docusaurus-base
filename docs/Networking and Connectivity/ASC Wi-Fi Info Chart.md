@@ -5,7 +5,7 @@ slug: /network-and-connectivity/wifi-info-chart
 sidebar_position: 1
 ---
 
-Here you will find a comparison chart of the different Wi-Fi options available at Agnes Scott. 
+Here you will find a comparison chart of the different Wi-Fi options at Agnes Scott. 
 
 :::warning
 

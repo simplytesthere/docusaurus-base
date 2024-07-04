@@ -22,7 +22,7 @@ import TOCInline from '@theme/TOCInline';
 Multi-Factor Authentication (MFA) provides your account greater security by verifying that it's you who is signing in every time. All forms of MFA require at least two layers of authentication to access an account -- the primary being your password and the secondary being some other form of verification. This secondary form of verification consists of the following: 
 
 - *REQUIRED*: the Microsoft Authenticator app on your smartphone or tablet ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)) 
-- *REQUIRED*: your personal cell number *or* your Avaya Cloud office number (employees only)
+- *REQUIRED*: your personal cell number *or*, if you’re an employee, your Avaya Cloud office number
 
 ## Why does Agnes Scott use MFA?
 
@@ -35,7 +35,7 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
 1. Go to https://scottiemail.agnesscott.edu and type in your full ASC email address. Click **Next**. 
 2. Type your password in the designated field. Click **Next**.
 3. You will see a screen that says "More information required". Click the **Next** button. 
-4. A new webpage will open. Here you will setup MFA. You will have to configure the Microsoft Authentication App and input your phone number. 
+4. A new webpage will open. Here you will setup MFA. You must configure the Microsoft Authentication App and input your phone number. 
 5. Set up the Microsoft Authenticator App
    1. If you haven't already, please download the Authentication App on the device you wish to use for secondary verification ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)).
    2. Hit **Next** on the screen titled "Start by getting the app".
@@ -43,20 +43,20 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
    4. Within the app, tap **Add an account** then **Work or School account**.
    5. On the website, hit  **Next**.
    6. The website will prompt you to scan a QR code. To scan this code on the app, tap **Scan a QR code** and then hold your camera up to the website’s QR Code.
-   7. You will receive a notification on the app to "Approve" or "Deny" access. You should be prompted to input a number and use your phone's secure login method (ex: pattern, Face ID, thumb print, etc.). Select approve, input the number, and complete your phone's secure login method. 
-   8. Once the notification is approved, you will see a screen that says "Notification approved". Click **Next**.
+   7. You will receive a notification on the app to "Approve" or "Deny" access. You will be prompted to input a number and use your phone's secure login method (ex: pattern, Face ID, thumbprint, etc.). Select approve, input the number, and complete your phone's secure login method. 
+   8. Once the notification is approved, you will see a “Notification approved” screen. Click **Next**.
 6. Set up a phone number for MFA to receive a verification code
-   - *Single-User Accounts (employee or student)*: Use either your personal cell number or office phone number (if you're an employee). 
-   - *Generic Accounts (multi-user accounts)*: Use the Avaya Cloud office phone number. 
-:::tip
-We recommend using the text option for the verification code. If you chose the phone call option, *which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated*, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
-:::
+   - *Single-User Accounts (employee or student)*: Use your personal cell number *or* Avaya Cloud Office phone number (if you're an employee). 
+   - *Generic Accounts (multi-user accounts)*: Use an Avaya Cloud office phone number. 
+   :::tip
+   We recommend using the text option for the verification code. If you chose the phone call option, *which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated*, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
+   :::
 7. Once you've verified the number, click **Next** on the website. If you see a screen that says "Success", you've completed MFA setup for your account. Click **Done** to access your account. 
 
 
 ## What should I use as my default secondary MFA? 
 
-The college recommends you use the Microsoft Authenticator app as your default secondary verification method. This will allow you to receive codes even if you are out of the country or in an area that has poor or no cellular coverage.
+The college recommends you use the Microsoft Authenticator app as your default secondary verification method. This will allow you to receive codes even if you are out of the country or in an area with poor or no cellular coverage.
 
 While acceptable, using a phone number or a non-ASC email address as the default secondary verification method can prevent sign-in if you lose access to your phone/personal email or have poor cellular service.
 
@@ -66,7 +66,7 @@ While acceptable, using a phone number or a non-ASC email address as the default
 1. On a computer or laptop, log into this website using your ASC account and current MFA device: [https://aka.ms/mfasetup](https://aka.ms/mfasetup) . 
 2. A window entitled **My Sign-Ins** will appear. Select the **Security Info** section. 
 3. Within the **Security Info** section, you can both...
-   - *add a new sign-in method (within the following options)*: alternative phone number and/or alternative Authenticator app phone/tablet
+   - *add a new sign-in method (within the following options)*: alternative phone number and/or an alternative Authenticator app phone/tablet
    - *change the default authentication method (within the following options)*: phone call, text, authentication app notification,  or authentication app code.
 
 ## I got a new phone and now MFA doesn't work. What should I do?

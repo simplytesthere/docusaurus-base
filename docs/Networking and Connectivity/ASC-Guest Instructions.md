@@ -10,7 +10,7 @@ sidebar_position: 4
 3. Under the **Guest** section, click **Register**. 
 4. Fill out the necessary information then select **Complete Registration**. 
 5. A page will appear that says “Network Registration in Progress”. Wait up to 5 minutes for that page to finish loading. 
-6. A screen that says “Welcome to the Agnes Scott network” should appear. 
+6. A screen stating “Welcome to the Agnes Scott network” should appear. 
 7. You should be connected to ASC-Guest.
 
 ## I followed the above steps, but my device still won't connect. What do I do?

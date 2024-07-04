@@ -8,7 +8,7 @@ sidebar_position: 3
 Here are instructions for connecting to ASC-Guest Self-Registration. 
 
 1. Log into this URL using a browser-capable device: [https://nac02.agnesscott.edu/self_registration](https://nac02.agnesscott.edu/self_registration)  
-2. Enter your ASC email username (everything before @agnesscott.edu), email password and then login. 
+2. Enter your ASC email username (everything before @agnesscott.edu) and email password then log in. 
 3. At the next screen, click **Add**. 
 4. In the new screen that opens, enter the following: 
 :::tip
@@ -21,7 +21,7 @@ If you're unsure of how to find the MAC address of your respective device, pleas
 5. Click **Submit**. 
 6. The next screen will show that your device has been added and is ready to be connected, as communicated by its “Approved” status. 
 7. Choose **ASC-Guest** on the device’s list of available Wi-Fi connections. 
-8. If connection errors out, restart the device. 
+8. If the connection errors out, restart the device. 
 
 ## I followed the above steps, but my device still won't connect. What do I do?
 
