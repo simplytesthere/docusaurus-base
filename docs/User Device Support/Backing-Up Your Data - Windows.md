@@ -44,7 +44,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 
 | Option                     | Best For...                                                  | Tools Needed                                                 |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | 1 TB external hard drive (HD)                                |
+| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | A blank 1 TB external hard drive (HD)                        |
 | Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 
 ### External Storage Backup

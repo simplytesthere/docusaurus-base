@@ -41,13 +41,19 @@ There are multiple ways to backup your data, but the two best options are as fol
 
 | Option                     | Best For...                                                  | Tools Needed                                                 |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | 1 TB External Hard Drive (HD)                                |
+| External Storage           | Those that have many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | A blank 1 TB External Hard Drive (HD)                        |
 | Google Drive Cloud Storage | Those that have a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
 ### External Storage Backup
 
-1. Plug in the 1 TB external HD into your <Highlight color="#402B6F">old</Highlight> Mac.
-2. Follow the instructions found [here](https://support.apple.com/en-us/HT201250). If your new device is a MacBook, make sure it's plugged in for the duration of this process.
-3. Once the **Time Machine backup** has been completed, eject the external HD.
+1. <Highlight color="#402B6F">If your old computer is a MacBook</Highlight>, make sure it's plugged in for the duration of this process.
+2. Sign into your Mac
+3. Plug in the 1 TB external HD into your Mac.
+4. Click the Apple icon in the upper left-corner of your screen then select System Settings from the menu.
+5. In the Search bar within the Settings window, type *Time Machine* and click the matching result.
+6. Click Add Backup Disk
+7. Select the 1 TB external HD then click Set Up Disk
+8. Follow the instructions found [here](https://support.apple.com/en-us/HT201250). 
+9. Once the **Time Machine backup** has been completed, eject the external HD.
 
 ### Google Drive Cloud Storage
 1. While signed into your ASC account, download **Google Drive Desktop** and follow the prompts.
