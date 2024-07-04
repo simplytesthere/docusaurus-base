@@ -56,7 +56,7 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 
 ### Personal Windows Device or Personal/College-Owned macOS Device 
 
-1. Log into your device and click the WiFi symbol and then select **ASC-Wireless** in in the list of connections.
+1. Log into your device, click the Wi-Fi symbol, and then select **ASC-Wireless** in the list of connections.
 3. Under **Username**, input your email username. 
 4. Under **Password**, input your email password. 
 5. Select **Connect**. 

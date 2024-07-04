@@ -12,7 +12,7 @@ Here are instructions for connecting to ASC-Guest Self-Registration.
 3. At the next screen, click **Add**. 
 4. In the new screen that opens, enter the following: 
 :::tip
-If you're unsure of how to find the MAC address of your respective device, please web search “[device name] MAC address” (ex: Firestick MAC Address.) 
+If you're unsure of how to find the MAC address of your respective device, please web search `“[device name] MAC address”` (ex: Firestick MAC Address.) 
 :::
 	1. *Username*: your ASC email username 
 	2. *MAC Address*: the MAC address of your device
