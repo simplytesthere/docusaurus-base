@@ -67,13 +67,13 @@ Here's how:
 Please follow the instructions below. *Do not* do the default Time Machine restore because that can mess up ASC-specific configurations for your new Mac.
 :::
 
-1. ==If your new computer is a MacBook==, connect it to a charger for the duration of this process.
-2. Plug the external HD with your Time Machine backup into your ==new== Mac.
+1.  <Highlight color="#402B6F">If your new computer is a MacBook</Highlight>, connect it to a charger for the duration of this process.
+2. Plug the external HD with your Time Machine backup into your <Highlight color="#402B6F">new</Highlight> Mac.
 3. Open **Migration Assistant** on your Mac by typing *Migration Assistant* into the **Spotlight** search text box.
 4. When asked how you want to transfer your information, click the following option: **From a Mac, Time Machine backup or Startup disk**. Then click **Continue**.
 5. Select your Time Machine backup then click **Continue**.
 6. Choose the latest backup then click **Continue**.
-7. In the next window, ==only== select your user folder. ==DO NOT== select the other options.
+7. In the next window, <Highlight color="#402B6F">only</Highlight> select your user folder. <Highlight color="#402B6F">DO NOT</Highlight> select the other options.
 8. Select **Replace** when asked what you want to do with the user profile from the old computer.
 9. If asked to input an administrator password to transfer your user account, type in *your current network password*.
 10. Click **Continue** to start the transfer. Depending on how much data you have, file restoration may take a while.

@@ -7,6 +7,18 @@ slug: /user-device-support/backup-Windows
 sidebar_position: 3
 ---
 
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
 Before upgrading/replacing your computer, we advise backing up your data. 
 
 While we will perform a data backup, we will only backup your user folder. *This doesn't include your browser bookmarks*. If you save data elsewhere or under another login, you either need to specify to us what logins or perform the backup yourself. 
@@ -37,7 +49,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 
 ### External Storage Backup
 
-1. Connect the 1 TB external HD to your ==old== computer.
+1. Connect the 1 TB external HD to your <Highlight color="#402B6F">old</Highlight> computer.
 2. In the **Search** bar at the bottom of the screen, type in **Backup**. Click the matching result.
 3. In the **Backup** window underneath the **Looking for an older backup?** section, click **Go to Backup and Restore (Windows 7)**.
 4. In the **Backup and Restore** window, click **Set up backup**.
@@ -45,7 +57,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 5. Under **Backup Destination**, select your external HD and then click **Next**.
 
 6. Select **Let me choose** > **Next**.
-7. On this page, leave ==only== the checkbox associated with your name/username selected.
+7. On this page, leave <Highlight color="#402B6F">only</Highlight> the checkbox associated with your name/username selected.
 8. Click **Next**.
 9. Clear the **Run backup on a schedule** checkbox, and then click **OK**.
 
