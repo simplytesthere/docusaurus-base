@@ -14,7 +14,7 @@ While we will perform a data backup, we will only backup your user folder. *This
 The easiest way to backup your bookmarks is to sign into the browser(s) you use with your ASC email and sync the data. Doing so will mean that your bookmarks will go with you whenever you sign into the browser(s) on your new computer. 
 
 Click the appropriate link to learn how to backup your browser bookmarks:
-- `*Google Chrome*`: https://support.google.com/chrome/answer/185277
+- *Google Chrome*: https://support.google.com/chrome/answer/185277
 - *Firefox*: https://support.mozilla.org/en-US/kb/how-do-i-set-sync-my-computer
 - *Safari*: https://support.apple.com/guide/icloud/set-up-safari-mm5400ef10c4/icloud
 
