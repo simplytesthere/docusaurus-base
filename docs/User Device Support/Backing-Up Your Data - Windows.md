@@ -9,7 +9,7 @@ sidebar_position: 3
 
 Before upgrading/replacing your computer, we advise backing up your data. 
 
-While we will perform a data backup, we will only backup your user folder. *This doesn't include your browser bookmarks*. If you save data elsewhere or under another login, you either need to specify to us what logins or perform the backup yourself. 
+While we will perform a data backup, we will only backup your user folder. This doesn't include your browser bookmarks. If you save data elsewhere outside of your user folder or under another login, you either need to specify to us what logins or perform the backup yourself. 
 
 ## Step 1: Back Up Your Bookmarks
 The easiest way to backup your bookmarks is to sign into the browser(s) you use with your ASC email and sync the data. Doing so will mean that your bookmarks will go with you whenever you sign into the browser(s) on your new computer. 
