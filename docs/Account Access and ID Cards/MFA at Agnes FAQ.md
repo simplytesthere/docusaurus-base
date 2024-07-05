@@ -38,15 +38,13 @@ If you have yet to sign into your ASC account, please use a computer or a device
 
 1. Go to https://scottiemail.agnesscott.edu
 
-2. In the **email** box, type in *the full ASC email address*. Click **Next**. 
-
-3. In the **password** box, type in *the password for the account*. Click **Next**.
+2. Sign in using your full ASC email address and your password. Click **Next** after inputting each. 
 
    You will see a page that says **More information required**. 
 
-4. Click the **Next** button. 
+3. Click the **Next** button. 
 
-5. The webpage for MFA setup will open.
+   The webpage for MFA setup will open.
 
 ### Step 2: Set up the Microsoft Authenticator App
 

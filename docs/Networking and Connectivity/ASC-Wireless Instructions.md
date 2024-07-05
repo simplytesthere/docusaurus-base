@@ -79,12 +79,19 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 #### Personal Windows Device or Personal/College-Owned macOS Device 
 
 1. Log into your device, click the Wi-Fi symbol, and then select **ASC-Wireless** in the list of connections.
-3. Under **Username**, input your email username. 
-4. Under **Password**, input your email password. 
-5. Select **Connect**. 
-6. If on a… 
-	- *Windows device*, you should be connected 
-	- *macOS device*, a window will pop up asking you to install a certificate. Select **Trust** within that window. You will then be prompted to input your *computer* password to approve the certificate. Once you’ve inputted the computer password, you should be connected. 
+
+2. Under **Username**, input *your email username*. 
+
+3. Under **Password**, input *your email password*. 
+
+4. Select **Connect**. 
+
+5. Follow the device-specific instructions below
+
+  | Device Type | Steps                                                        |
+  | ----------- | ------------------------------------------------------------ |
+  | Windows     | You should be connected                                      |
+  | macOS       | A window will pop up asking you to install a certificate<br />1. Select **Trust** within that window <br />A window will appear prompting you to input your computer password.<br />2. Input *your computer password* and then hit **Enter**.<br />You should be connected.<br /> |
 
 ## Troubleshooting
 
