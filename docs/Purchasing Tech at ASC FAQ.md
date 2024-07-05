@@ -53,10 +53,10 @@ If you want a desktop instead, here are our options:
 	- *GL-CODE (will only be used upon quote approval)*:
 2. We will email your budget manager and you with the quote. *If your budget manager is comfortable with the price, they must respond to the email with "I approve of this purchase"*.
 3. Once ITS receives the approval email, we will purchase the device(s). You will receive confirmation from us of the purchase.
-4. We will inform you once the device has arrived and has been configured for use (if applicable).
+4. We will inform you once the device has arrived and been configured for use (if applicable).
 
 ## I want to buy my old device. How do I go about that?
-We allow users to buy their old device(s) *that are out-of-warranty*. If your old device is not out-of-warranty, it will be put back into circulation.
+We allow full-time employees to buy their old device(s) that are out of warranty. If your old device is not out of warranty, it will be put back into circulation and is unavailable for purchase.
 
 The formula for the cost is as follows: 
 
