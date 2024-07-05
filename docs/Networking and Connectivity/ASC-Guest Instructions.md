@@ -13,7 +13,7 @@ Here’s how to connect to ASC-Guest. If you’re unsure that you should connect
 
 1. Select **ASC-Guest** from the list of available connections on your device.
 
-2. If a browser window doesn’t appear, type in the following: https://nac02.agnesscott.edu/main  If it does appear, go to Step 3.
+2. If a browser window appears, then go to Step 3. If a browser window doesn’t appear, then type in the following in your phone’s browser: https://nac02.agnesscott.edu/main  
 
 3. Under the **Guest** section, click **Register**. 
 

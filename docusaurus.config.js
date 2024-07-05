@@ -85,6 +85,7 @@ const config = {
           },
         ],
       },
+      
       footer: {
         style: 'dark',
         links: [
@@ -143,6 +144,11 @@ const config = {
         },
       ],
     ],
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 5,
+    },
+  },
 };
 
 export default config;
