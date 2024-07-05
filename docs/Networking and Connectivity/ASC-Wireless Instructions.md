@@ -23,14 +23,21 @@ import TOCInline from '@theme/TOCInline';
 7. You should now be able to use ASC-Wireless. 
 ### Android (Pixel) 
 
-1.  Select **ASC-Wireless** in the list of available Wi-Fi connections.   
+1. Select **ASC-Wireless** in the list of available Wi-Fi connections.   
+
 2. Under **EAP Method**, select **PEAP**. 
+
 3. Under **Phase 2 Authentication**, select **MSCHAPV2**.
+
 4. Under **Identity**, input your full email address. 
+
 5. Under **Password**, input your email password. 
+
 6. Under **CA Certificate**,  select **Trust on First Use**. 
+
 7. Select **Connect**. 
-8. You should be connected.  
+
+   You should be connected.  
 
 :::tip
 
@@ -41,18 +48,24 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 ### iPhone 
 
 1. Select **ASC-Wireless** in the list of available Wi-Fi connections.
+
 2. Under **Username**, input your email username. 
+
 3. Under **Password**, input your email password. 
+
 4. A window entitled Certificate will pop up. Tap **Trust**. 
-5. You should be connected. 
+
+   You should be connected. 
 
 ## Connecting a Windows or macOS Device 
 
 ### College-Owned Windows Device 
 
 1. Sign into your laptop using your current email username and password. 
+
 2. Wait while the laptop forces a connection to **ASC-Wireless**. 
-3. You should be connected to ASC-Wireless and also logged into the computer.  
+
+   You should be connected to ASC-Wireless and also logged into the computer.  
 
 ### Personal Windows Device or Personal/College-Owned macOS Device 
 
@@ -70,7 +83,7 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 
 ## Wi-Fi isn't working on my device, and I haven't changed my password. Help?
 
-Please submit a ticket at itshelp@agnesscott.edu. Make sure your email to ITS Help includes the following:  
+Please [email the ASC ITS Help Desk](https://asc-testsite2.netlify.app/docs/contact-info-hours). Make sure your email to ITS Help includes the following:  
 
 - Your device type 
 - The MAC address of your device 

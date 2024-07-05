@@ -38,13 +38,13 @@ If you have yet to sign into your ASC account, please use a computer *or a devic
 4. You will see a page that says **More information required**. Click the **Next** button. 
 5. The webpage for MFA setup will open.
 6. Set up the Microsoft Authenticator App
-   1. If you haven't already, download the Authentication App on the device you wish to use for secondary verification ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)).
+   1. If you haven't already, download the **Microsoft Authentication App** on the device you wish to use for secondary verification ([Apple App Store](https://apps.apple.com/us/app/microsoft-authenticator/id983156458) | [Google Play Store](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en_US&pli=1)).
    2. On the **Start by getting the app** page, hit **Next**.
    3. Open the Authenticator app. When prompted, tap **Turn on notifications** (you must enable notifications for the app to work). 
    4. Within the app, tap **Add an account** > **Work or School account**.
    5. On the website, hit **Next**. The website will prompt you to scan a QR code. 
    6. On the app, tap **Scan a QR code** then use your phone’s camera to scan the website’s QR Code.
-   7. You will be prompted to input the number displayed on the website and then to use your phone's secure login method (ex: pattern, Face ID, thumbprint, etc.). Type in the number and complete your phone's secure login method. 
+   7. On the app, you will be prompted to input the number displayed on the website and then to use your phone's secure login method (ex: pattern, Face ID, thumbprint, etc.). Type in the number and complete your phone's secure login method. 
    8. Once you’ve answered the phone prompt, you will see a **Notification approved** screen on the website. Click **Next**.
 7. Set up a phone number for MFA to receive a verification code
    - Single-User Accounts (employee or student): Use your personal cell number *or*, if you’re an employee, your Avaya Cloud Office phone number. 
@@ -74,6 +74,6 @@ While acceptable, using a phone number as the default secondary verification met
 
 If you recently upgraded/replaced your phone or had to change phone numbers, MFA will be unavailable on that device until it is added to your account. To add the new device to your account, you will need to do *one* of the following:
 
-- *Use the old device* to sign into this link and click the **Add sign-in method** button to add your new device: https://aka.ms/mfasetup
-- *Contact the ASC Help Desk for an MFA Reset*. Once the MFA Reset is complete, you will be prompted to re-do the MFA setup process the next time you access your account, allowing you to connect your new device. 
+- Use the old device to sign into this link and click the **Add sign-in method** button to add your new device: https://aka.ms/mfasetup
+- [Contact the ASC Help Desk](https://asc-testsite2.netlify.app/docs/contact-info-hours) for an MFA Reset. Once the MFA Reset is complete, you will be prompted to re-do the MFA setup process the next time you access your account, allowing you to connect your new device. 
 
