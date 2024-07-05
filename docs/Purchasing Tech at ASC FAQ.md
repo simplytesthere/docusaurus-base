@@ -7,10 +7,9 @@ slug: purchasing-tech
 sidebar_position: 7
 ---
 
+## Overview
 
-import TOCInline from '@theme/TOCInline';  
-
-<TOCInline toc={toc} />
+Here you will find the answer to common questions about purchasing technology at ITS.
 
 ## Do I have to purchase all technology through the ITS?
 
@@ -58,7 +57,7 @@ If you want a desktop instead, here are our options:
 ## I want to buy my old device. How do I go about that?
 We allow full-time employees to buy their old device(s) that are out of warranty. If your old device is not out of warranty, it will be put back into circulation and is unavailable for purchase.
 
-The formula for the cost is as follows: 
+The formula for the cost of purchasing your old device is as follows: 
 
 ```
 Initial Cost/(Current Year - Year of Deployment) = Purchase Amount

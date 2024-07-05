@@ -2,15 +2,21 @@
 tags:
   - employees-only
 authors: Sye Williams
-title: Backing Up Your Data on macOS
+title: Back Up Your Data on macOS
 slug: /user-device-support/backup-macOS
 sidebar_position: 2
 ---
+## Overview
+
 Before upgrading/replacing your computer, we advise backing up your data. 
 
 While we will perform a data backup, we will only backup your user folder. This doesn't include your browser bookmarks. If you save data elsewhere outside of your user folder or under another login, you either need to specify to us what logins or perform the backup yourself. 
 
-## Step 1: Back Up Your Bookmarks
+See below for instructions on how to backup your data.
+
+## Instructions
+
+### Step 1: Back Up Your Bookmarks
 The easiest way to backup your bookmarks is to sign into the browser(s) you use with your ASC email and sync the data. Doing so will mean that your bookmarks will go with you whenever you sign into the browser(s) on your new computer. 
 
 Click the appropriate link to learn how to backup your browser bookmarks:
@@ -18,7 +24,7 @@ Click the appropriate link to learn how to backup your browser bookmarks:
 - Firefox: https://support.mozilla.org/en-US/kb/how-do-i-set-sync-my-computer
 - Safari: https://support.apple.com/guide/icloud/set-up-safari-mm5400ef10c4/icloud
 
-## Step 2: Back Up Your Files
+### Step 2: Back Up Your Files
 
 :::warning
 Do not use a network share (aka "the W drive") to backup your files. A network share is designed to share documents amongst your department and storage space is limited.
@@ -31,7 +37,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | External Storage           | Those with many and/or large files that will not upload quickly to Google Drive. Additionally, this is the best option if you use specialized software with unique file extensions. | A blank 1 TB external hard drive (HD)                        |
 | Google Drive Cloud Storage | Those with a small number of documents (PDF and Word files) and images. | [Google Drive Desktop](https://www.google.com/drive/download/) |
-### External Storage Backup
+#### Option 1: External Storage Backup
 
 1. If your old computer is a MacBook, make sure it's plugged in for the duration of this process.
 2. Sign into your Mac
@@ -43,19 +49,19 @@ There are multiple ways to backup your data, but the two best options are as fol
 8. Wait for the backup process to complete. You may continue to use your Mac.
 9. Once the Time Machine backup has been completed, eject the external HD.
 
-### Google Drive Cloud Storage
+#### Option 2: Google Drive Cloud Storage
 1. While signed into your ASC account, download **Google Drive Desktop** and follow the prompts.
 2. Select the checkbox beside each computer folder you want backed up to the cloud.
 3. Wait for the files to upload to Google Drive. You may continue using your computer while the files are uploaded.
 4. To verify that your files have been backed up, go to your ASC **Google Drive**, and then click **Computers** (on the left side of the screen). 
 5. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
 
-## Step 3: Restore Your Files
+### Step 3: Restore Your Files
 Once you've received your new computer, it's time to restore your files!
 
 Here's how:
 
-### Restoring from an External Storage Backup
+#### Restoring from an External Storage Backup
 
 :::warning
 Please follow the instructions below. *Do not* do the default Time Machine restore because that can mess up ASC-specific configurations for your new Mac.
@@ -74,7 +80,7 @@ Please follow the instructions below. *Do not* do the default Time Machine resto
 11. Once the Migration Assistant process is finished, you may be prompted to restart your computer. Do so. 
 12. Once the computer has restarted, log in using *your username and current password*. 
 13. Your files have been restored.
-### Restoring from a Google Drive Cloud Backup
+#### Restoring from a Google Drive Cloud Backup
 1. Sign into your new computer. 
 2. Using *your ASC credentials*, sign into **Google Drive**. 
 3. Navigate to the **Computers** folder on the left side of the screen. 

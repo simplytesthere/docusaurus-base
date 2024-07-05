@@ -1,18 +1,23 @@
 ---
 authors: Sye Williams
-title: Generic Account Management FAQ
+title: Manage a Generic Account
 slug: /account-access-id-cards/generic-email-accounts
 ---
 
-import TOCInline from '@theme/TOCInline';  
+## Overview
 
-<TOCInline toc={toc} />
+Here are answers to common questions about generic account management. After reading this FAQ, you will be able efficiently and easily manage a generic account. 
 
 ## What is a generic account?
 
 A generic account is an ASC account meant for general departmental purposes. This account may act as the first point of contact for people with inquiries for your department. 
 
+:::tip
+
 We recommend that every generic account has at least one Account Manager, who is the one person who has the password and the default MFA verification associated with their device. 
+
+:::
+
 ## Several people need to be able to check a generic email account. Any recommendations? 
 
 If several people must check the generic account's email at any point, we recommend setting up email delegation. This way, multiple people can check the account without interacting with MFA. 

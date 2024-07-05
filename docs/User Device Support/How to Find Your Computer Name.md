@@ -1,5 +1,5 @@
 ---
-title: How to Find Your Computer Name
+title: Find Your Computer Name
 slug: /user-device-support/computer-name
 authors: Sye Williams
 sidebar_position: 1
