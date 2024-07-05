@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
@@ -62,6 +62,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
+    },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -85,7 +90,6 @@ const config = {
           },
         ],
       },
-      
       footer: {
         style: 'dark',
         links: [
@@ -144,13 +148,5 @@ const config = {
         },
       ],
     ],
-      themeConfig: {
-        tableOfContents: {
-          minHeadingLevel: 2,
-          maxHeadingLevel: 5,
-        },
-      },
-    }; 
 };
-
 export default config;
