@@ -144,7 +144,6 @@ const config = {
         },
       ],
     ],
-    export default {
       themeConfig: {
         tableOfContents: {
           minHeadingLevel: 2,
