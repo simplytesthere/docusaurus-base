@@ -13,7 +13,7 @@ Here you will find a comparison chart of the different Wi-Fi options at Agnes Sc
 
 Chromecasts and IoT devices (Roombas, smart lights, etc.) do *not* work on any ASC network. 
 
-::
+:::
 
 ## Chart
 
