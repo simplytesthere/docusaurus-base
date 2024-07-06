@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## Overview
 
-Here’s how to connect to ASC-Wireless. If you’re unsure that you should connect to this Wi-Fi instance, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
+Here’s how to connect to ASC-Wireless. If you’re unsure that you should connect to this Wi-Fi connection, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
 
 Click the link on the sidebar corresponding to the device you’re trying to connect.
 
@@ -97,7 +97,8 @@ If you receive an error after hitting the connect button, connect to [ASC-Guest 
 
 ### I changed my password and now ASC-Wireless doesn't work. What should I do? 
 
-"Forget" ASC-Wireless from your list of remembered Wi-Fi connections and then reconnect to ASC-Wireless by following the appropriate device-specific directions. 
+1. "Forget" ASC-Wireless from your device’s list of remembered Wi-Fi connections.
+2. Reconnect to ASC-Wireless by following the appropriate device-specific directions. 
 
 ### Wi-Fi isn't working on my device, and I haven't changed my password. Help?
 

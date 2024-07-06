@@ -8,7 +8,7 @@ slug: /software-and-browser-based-apps/avail-software-apps
 
 Here is a list of software available through Agnes Scott along with basic information about each. 
 
-To obtain a named license (an individual license assigned to a particular account) for any of the software listed below, please submit an email ticket to the ASC Help Desk. In the email, provide a justification for your request. 
+To obtain a named license (an individual license assigned to a particular account) for any of the software listed below, please [submit an email ticket to the ASC Help Desk](https://asc-testsite2.netlify.app/docs/contact-info-hours). In your email, please justify your request. 
 
 ## Chart
 

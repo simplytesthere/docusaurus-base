@@ -36,7 +36,7 @@ Whenever submitting a ticket, be prepared with the following:
 
 What entails a “specific description”? Providing as many details as possible about your issue! 
 
-For example, instead of saying "My computer is slow.", say something like "My computer is slow to boot up." or "When I'm using the internet, my pages take a long time to load." The more information ITS has upfront, the quicker we can resolve your issue. 
+For example, instead of saying "My computer is slow.", be particular about when it’s slow. For example, say something like "My computer is slow to boot up." or "When I'm using the internet, my pages take a long time to load." The more information ITS has upfront, the quicker we can resolve your issue. 
 
 ## Contact Info
 
@@ -52,7 +52,7 @@ itshelp@agnesscott.edu
 
 ### Physical Help Desk
 
-- Location: Walters dorm basement
+- Location: Walters’s dorm basement
 - Days of Operation:
   - Academic Year: Mon. - Fri. (except college holidays)
   - Summer: Mon. - Thurs. (except college holidays)

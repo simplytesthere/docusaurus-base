@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ## Overview 
 
-Here’s how to connect to ASC-Guest. If you’re unsure that you should connect to this Wi-Fi instance, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
+Here’s how to connect to ASC-Guest. If you’re unsure that you should connect to this Wi-Fi connection, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
 
 ## Instructions
 

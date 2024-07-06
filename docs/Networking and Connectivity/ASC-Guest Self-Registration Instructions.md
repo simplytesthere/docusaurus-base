@@ -7,7 +7,7 @@ sidebar_position: 3
 
 ## Overview  
 
-Here’s how to connect to ASC-Guest Self-Registration. If you’re unsure that you should connect to this Wi-Fi instance, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
+Here’s how to connect to ASC-Guest Self-Registration. If you’re unsure that you should connect to this Wi-Fi connection, refer to the info chart [here](https://asc-testsite2.netlify.app/docs/contact-info-hours). 
 
 :::important
 You will need your device’s MAC address to complete these steps. If you're unsure of how to find the MAC address of your respective device, please web search `“[device name] MAC address”` (ex: Firestick MAC Address.) 
