@@ -1,15 +1,15 @@
 ---
 authors: Sye Williams
-title: Using MFA at Agnes
+title: Using MFA at Agnes FAQ
 slug: /account-access-id-cards/MFA
 sidebar_position: 1
 ---
 
 ## Overview
 
-Here you will find the answers to common questions about MFA at Agnes. After reading this FAQ, you will know MFA’s purpose, how to set it up, and how to make changes to your account’s MFA. 
+Here you will find the answers to common questions about MFA at Agnes. After reading this FAQ, you will know MFA’s purpose, how to set it up, and how to change your account’s MFA. 
 
-:::warning
+:::important
 
 You must have a smartphone or tablet to utilize Multi-factor authentication (MFA) at Agnes. If you do not have a smartphone or tablet, please come by the ITS Help Desk. 
 
@@ -28,9 +28,9 @@ Agnes Scott implemented MFA to reduce the chances of a cyber attack succeeding a
 
 ## How do I set up MFA? 
 
-:::Important
+:::important
 
-If you have yet to sign into your ASC account, please use a computer or a device other than your phone to follow the instructions below. 
+If you have yet to sign into the ASC account you’re setting MFA up for, use a computer or a device other than your phone to follow the instructions below. 
 
 :::
 
@@ -40,7 +40,7 @@ If you have yet to sign into your ASC account, please use a computer or a device
 
 2. Sign in using your full ASC email address and your password. Click **Next** after inputting each. 
 
-   You will see a page that says **More information required**. 
+   You will see a message that says **More information required**. 
 
 3. Click the **Next** button. 
 
@@ -72,11 +72,13 @@ If you have yet to sign into your ASC account, please use a computer or a device
 We recommend using the text option for the verification code. If you chose the phone call option, which is only the best option if you're using an Avaya Cloud Office phone without an accessible email associated, you must press the pound key (#) as soon as you answer the phone to complete the MFA process. 
 :::
 
-- Single-User Accounts (employee or student): Use your personal cell number *or*, if you’re an employee, your Avaya Cloud Office phone number. 
-- Generic Accounts (multi-user accounts): Use an Avaya Cloud office phone number. 
+| Account Type                                          | Number to Input/Verify                                       |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| Single-User Accounts (individual employee or student) | Use your personal cell number *or*, if you’re an employee, your Avaya Cloud Office phone number. |
+| Generic Accounts (multi-user accounts)                | Use an Avaya Cloud office phone number.                      |
 
 1. On the website, input *the desired phone number*. Click **Next**.
-2. On the phone, view the verification code or answer the call then immediately press the pound (#) key. If applicable on the website, input the verification code into the appropriate box on the screen.
+2. View the texted verification code or answer the call then immediately press the pound (#) key. If applicable on the website, input the texted verification code into the appropriate box on the screen.
 3. On the website, click **Next**. 
 
 ### Step 4: Access the account

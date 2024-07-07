@@ -1,6 +1,6 @@
 ---
 authors: Sye Williams
-title: Manage a Generic Account
+title: Managing a Generic Account FAQ
 slug: /account-access-id-cards/generic-email-accounts
 ---
 
@@ -32,9 +32,7 @@ The Account Manager should do the following to setup email delegation:
 
 In this case, it would be best if the Account Manager added everyone who needs to access those applications as an MFA alternative. 
 
-Please refer to [MFA at Agnes FAQ > I want to be able to use MFA on a second device. How do I set that up?](https://asc-testsite2.netlify.app/docs/account-access-id-cards/MFA#i-want-to-be-able-to-use-mfa-on-a-second-device-how-do-i-set-that-up) to add other individuals to the MFA. We recommend using their Avaya Cloud Office or personal number as alternative verifications for ease. Alternatively, the Account Manager can collaborate with whoever needs access to set up alternative Authenticator app users.
+Please refer to [MFA at Agnes FAQ > I want to be able to use MFA on a second device. How do I set that up?](https://asc-testsite2.netlify.app/docs/account-access-id-cards/MFA#i-want-to-be-able-to-use-mfa-on-a-second-device-how-do-i-set-that-up) to add other individuals to the MFA. We recommend using their Avaya Cloud Office or personal number as alternative verifications for ease. When they sign in, they must hit "**I can't use my Authenticator app right now**" and find the verification method associated with their phone number. 
 
-:::info
-When anyone besides the Account Manager signs into the generic account and this person's authentication method for the generic account is a phone number, they must hit "**I can't use my Authenticator app right now**" and find the verification method associated with their phone number. 
-:::
+Alternatively, the Account Manager can collaborate with whoever needs access to set up alternative Authenticator app users.
 

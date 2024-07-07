@@ -5,11 +5,13 @@ authors: Sye Williams
 sidebar_position: 1
 ---
 
+## Overview
+
 In certain scenarios, the ITS team may ask you for your computer's assigned name in order to troubleshoot an issue or make software available to you for download/installation. To find your computer's name, select your Operating System from the choices shown below:
 
 
 
-:::warning
+:::important
 Do not rename your computer. If you have any questions regarding the computer's name, please contact the ITS Help Desk at [itshelp@agnesscott.edu](mailto:itshelp@agnesscott.edu)
 :::
 

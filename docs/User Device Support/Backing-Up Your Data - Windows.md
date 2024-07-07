@@ -63,7 +63,7 @@ There are multiple ways to backup your data, but the two best options are as fol
 1. While signed into your ASC account, download **Google Drive Desktop** and follow the prompts.
 2. Select the checkbox beside each computer folder you want backed up to the cloud.
 3. Wait for the files to upload to Google Drive. You may continue using your computer while the files are uploaded.
-4. To verify that your files have been backed up, go to your ASC **Google Drive** and then click **Computers** on the left side of the screen. 
+4. To verify that your files have been backed up, go to your ASC **Google Drive**  then click **Computers** on the left side of the screen. 
 5. You should see a folder entitled your computer name, and, within it, all of the files you've backed up. 
 
 ### Step 3: Restore Your Files
@@ -86,7 +86,7 @@ Here's how:
 
 7. Click **Restore to original location**.
 
-8. Wait while the files restore. If you receive a prompt about whether to copy, replace, etc. an existing file, click **Copy and Replace** and select the **Do this for all** checkbox.
+8. If you receive a message about whether to copy, replace, etc. an existing file, click **Copy and Replace** and select the **Do this for all** checkbox.
 
 9. Wait for the file restoration process to complete. This may take a while depending on how many files you have.
 

@@ -9,7 +9,7 @@ sidebar_position: 1
 
 Here you will find a comparison chart of the different Wi-Fi options at Agnes Scott. Choose the right one for your device and community status.
 
-:::warning
+:::important
 
 Chromecasts and IoT devices (Roombas, smart lights, etc.) do *not* work on any ASC network. 
 
