@@ -52,11 +52,9 @@ itshelp@agnesscott.edu
 
 ### Physical Help Desk
 
-- Location: Walters’s dorm basement
-- Days of Operation:
-  - Academic Year: Mon. - Fri. (except college holidays)
-  - Summer: Mon. - Thurs. (except college holidays)
+- Location: Walters’s dorm ground floor
+- Days/Hours of Operation:
+  - Academic Year: Mon. - Fri. (except college holidays) | Hours: 8:30 am - 4:30 pm
+  - Summer: Mon. - Thurs. (except college holidays) | Hours: 8:00 am - 5:00 pm
 
-- Pickup/drop-off/assistance hours:  8:15 am - 4:45 pm
-- General Business Hours: 8 am - 5 pm
 
