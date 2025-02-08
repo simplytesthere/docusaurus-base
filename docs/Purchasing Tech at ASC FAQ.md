@@ -23,7 +23,7 @@ We have standard purchasing bundles now! As of June 2024, here are the bundles:
 
 | Package Title | Ideal For...                               | Contents                                   | Monitor(s)                                       |
 | ------------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------------ |
-| Standard      | Employees in non-executive roles           | HP ProBook 440 G10 Laptop, Docking Station | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
+| Standard      | Employees in non-executive roles           | HP ProBook 440 G11 Laptop, Docking Station | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
 | Executive     | Executive employees (VPs, Directors, etc.) | HP Elite Dragonfly, Docking Station        | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
 | Power User    | Employees who need a high-powered setup    | HP Zbook Firefly, Docking Station          | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
 | Mac User      | Employees who are used to macOS            | MacBook Pro, Docking Station               | 27-inch Acer Monitor(s) or 32-inch LG Monitor(s) |
